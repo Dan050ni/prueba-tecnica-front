@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@admin.com",
+      "password": "admin123",
+      "name": "Administrador",
+      "role": "admin"
+    },
+    {
+      "id": "182f",
+      "name": "daniel bernal",
+      "email": "dananthony2921@gmail.com",
+      "password": "1234",
+      "role": "student"
+    }
+  ],
+  "tasks": []
+}
