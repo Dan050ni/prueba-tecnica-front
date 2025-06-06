@@ -11,6 +11,7 @@
 ###
 
 <p align="left">git clone https://github.com/Dan050ni/prueba-tecnica-front.git<br><br>cd prueba-tecnica-front.git<br>npm install<br><br># Terminal 1 - JSON Server<br>npm run server<br><br># Terminal 2 - Aplicación<br>npm run dev</p>
+<p> json-server --watch db.json --port 3001</p>
 
 ###
 
